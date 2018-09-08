@@ -1,4 +1,4 @@
-package com.ajie.pojo;
+package com.ajie.dao.pojo;
 
 public class TbLabel {
     private Integer id;

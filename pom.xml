@@ -6,7 +6,7 @@
 		<artifactId>parent</artifactId>
 		<version>1.0.0</version>
 	</parent>
-	<artifactId>dbMapper</artifactId>
+	<artifactId>dao</artifactId>
 	<version>1.0.10</version>
 
 	<dependencies>

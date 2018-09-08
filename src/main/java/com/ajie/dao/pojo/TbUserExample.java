@@ -1,4 +1,4 @@
-package com.ajie.pojo;
+package com.ajie.dao.pojo;
 
 import java.util.ArrayList;
 import java.util.Date;

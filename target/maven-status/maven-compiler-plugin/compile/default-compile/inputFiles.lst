@@ -1,6 +1,6 @@
-/home/mitnick/workspace/mine/web/dbMapper/src/main/java/com/ajie/pojo/TbLabelExample.java
-/home/mitnick/workspace/mine/web/dbMapper/src/main/java/com/ajie/pojo/TbUserExample.java
-/home/mitnick/workspace/mine/web/dbMapper/src/main/java/com/ajie/pojo/TbLabel.java
-/home/mitnick/workspace/mine/web/dbMapper/src/main/java/com/ajie/mapper/TbUserMapper.java
-/home/mitnick/workspace/mine/web/dbMapper/src/main/java/com/ajie/pojo/TbUser.java
-/home/mitnick/workspace/mine/web/dbMapper/src/main/java/com/ajie/mapper/TbLabelMapper.java
+/home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/pojo/TbUserExample.java
+/home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/pojo/TbUser.java
+/home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/mapper/TbUserMapper.java
+/home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/pojo/TbLabelExample.java
+/home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/mapper/TbLabelMapper.java
+/home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/pojo/TbLabel.java

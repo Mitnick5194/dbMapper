@@ -1,11 +1,11 @@
-package com.ajie.mapper;
+package com.ajie.dao.mapper;
+
+import com.ajie.dao.pojo.TbUser;
+import com.ajie.dao.pojo.TbUserExample;
 
 import java.util.List;
 
 import org.apache.ibatis.annotations.Param;
-
-import com.ajie.pojo.TbUser;
-import com.ajie.pojo.TbUserExample;
 
 public interface TbUserMapper {
     int countByExample(TbUserExample example);
