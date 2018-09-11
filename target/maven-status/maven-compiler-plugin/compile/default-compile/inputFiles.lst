@@ -1,6 +1,9 @@
 /home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/pojo/TbUserExample.java
+/home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/redis/JedisException.java
 /home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/pojo/TbUser.java
 /home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/mapper/TbUserMapper.java
 /home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/pojo/TbLabelExample.java
+/home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/redis/impl/RedisClientImpl.java
+/home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/redis/RedisClient.java
 /home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/mapper/TbLabelMapper.java
 /home/mitnick/workspace/mine/web/dao/src/main/java/com/ajie/dao/pojo/TbLabel.java
